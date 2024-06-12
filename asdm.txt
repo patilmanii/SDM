@@ -1,1 +1,3 @@
 before git diff
+after git diff
+my name is manii
